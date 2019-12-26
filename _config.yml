@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Diawatch
+subtitle: 'A developers prospective on DIY APS and #WeAreNotWaiting'
 description: ''
-keywords:
-author: John Doe
+keywords: '#Wearearenot Waiting, Looping, OpenAPS, Loop, AndroidAPS'
+author: Tim Gunn
 language: en
-timezone: ''
+timezone: 'NZDT'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: ayer
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
